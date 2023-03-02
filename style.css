@@ -1,0 +1,73 @@
+
+table {
+    box-shadow: 6px 6px 25px;
+    border: 5px outset;
+    border-radius: 55px;
+    padding: 20px;
+    margin: 16px;
+    border-color: rgb(239, 232, 232);
+
+    background: rgb(98, 2, 40);
+}
+
+body {
+    margin:auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline, ;
+    /* background-image: url(https://img.freepik.com/premium-vector/programmer-with-code-cat-on-book-and-coffee-vector-clip-art-illustration_138676-92.jpg);
+    background-repeat: repeat-y;
+    background-position:left;
+    background-attachment:local; */
+    background:url(https://img.freepik.com/premium-vector/programmer-with-code-cat-on-book-and-coffee-vector-clip-art-illustration_138676-92.jpg) right repeat-y, url(https://png.pngtree.com/element_our/20200609/ourmid/pngtree-vector-programming-structure-diagram-image_2230270.jpg) left repeat-y;
+}
+
+.avatar {
+    height: 330px;
+    width: 250px;
+    border: 5px;
+    border-radius: 50px;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+}
+
+.info {
+    background: rgb(239, 232, 232);
+    padding: 5px;
+    margin: auto;
+}
+
+.job {
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px;
+    background: rgb(239, 232, 232);
+    box-shadow: 4px, 4px, 30px rgb(7, 7, 7);
+    width: 650px;
+}
+footer {
+    background: rgb(98, 2, 40);
+    border: 5px solid;
+    border-color: rgb(239, 232, 232);
+    border-radius: 25px;
+    box-shadow: 4px 4px 21px;
+    height: 55px;
+    padding: 15px;
+    
+}
+.job1 {
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px;
+    background: rgb(239, 232, 232);
+    box-shadow: 4px, 4px, 30px rgb(7, 7, 7);
+    width: 580px;
+}
+.centers{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.fio{
+    margin-left: 15px;
+}
+
