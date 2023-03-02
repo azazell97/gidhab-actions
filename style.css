@@ -42,7 +42,7 @@ body {
     box-shadow: 4px 4px 14px;
     background: rgb(239, 232, 232);
     box-shadow: 4px, 4px, 30px rgb(7, 7, 7);
-    width: 650px;
+    /* width: 650px; */
 }
 footer {
     background: rgb(98, 2, 40);
@@ -61,11 +61,12 @@ footer {
     box-shadow: 4px 4px 14px;
     background: rgb(239, 232, 232);
     box-shadow: 4px, 4px, 30px rgb(7, 7, 7);
-    width: 580px;
+    /* width: 580px; */
 }
 .centers{
-    margin-left: 400px;
-    margin-right: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
 }
 .fio{
     margin-left: 15px;
