@@ -1,13 +1,12 @@
-
 table {
     box-shadow: 6px 6px 25px;
     border: none;
     border-radius: 55px;
     padding: 20px;
     margin: 16px;
-    border-color: rgb(239, 232, 232);
+   
 
-    background: rgba(138, 128, 132, 0.53);
+    background: rgba(201, 194, 197, 0.53);
 }
 
 body {
@@ -47,7 +46,7 @@ body {
     /* width: 650px; */
 }
 footer {
-    background: rgba(107, 94, 99, 0.504);
+    background: rgba(204, 184, 192, 0.504);
     border: none;
     border-color: rgb(239, 232, 232);
     border-radius: 25px;
@@ -75,9 +74,46 @@ footer {
 }
 
 .about{
-    background: rgba(238, 224, 210, 0.658);
+    background: rgba(225, 219, 213, 0.658);
     border-radius: 30px;
     box-shadow: 4px 4px 20px;
     font-size: larger;
 }
 
+h1{
+    color:#e7c9c9;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 1px 1px 1px #919191,
+     1px 2px 1px #919191,
+      1px 3px 1px #919191,
+       1px 4px 1px #919191,
+        1px 5px 1px #919191,
+         1px 6px 1px #919191, 
+         1px 8px 1px #919191,
+         1px 9px 1px #919191,
+         1px 10px 1px #919191;
+         /* 1px 18px 6px rgba(16, 16, 16, 0.4),
+         1px 22px 10px rgba(16, 16, 16, 0.2),
+         1px 25px 35px rgba(16, 16, 16, 0.2),
+         1px 30px 60px rgba(16, 16, 16, 0.4);         */
+}
+
+h5, ol, h3, h4{
+    color:#c4b3b3;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 1px 1px 1px #919191,
+     1px 2px 1px #919191,
+      1px 3px 1px #919191,
+        1px 4px 1px #919191;
+        /* 1px 5px 1px #919191,
+         1px 6px 1px #919191, 
+         1px 8px 1px #919191;
+         1px 9px 1px #919191,
+         1px 10px 1px #919191;
+         1px 22px 10px rgba(16, 16, 16, 0.2),
+         1px 18px 6px rgba(16, 16, 16, 0.4),
+         1px 25px 35px rgba(16, 16, 16, 0.2),
+         1px 30px 60px rgba(16, 16, 16, 0.4);         */
+}
