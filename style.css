@@ -7,7 +7,7 @@ table {
     margin: 16px;
     border-color: rgb(239, 232, 232);
 
-    background: rgb(98, 2, 40);
+    background: rgba(138, 128, 132, 0.53);
 }
 
 body {
@@ -19,6 +19,8 @@ body {
     background-position:left;
     background-attachment:local; */
     background:url(https://img.freepik.com/premium-vector/programmer-with-code-cat-on-book-and-coffee-vector-clip-art-illustration_138676-92.jpg) right repeat-y, url(https://png.pngtree.com/element_our/20200609/ourmid/pngtree-vector-programming-structure-diagram-image_2230270.jpg) left repeat-y;
+    
+    
 }
 
 .avatar {
@@ -26,11 +28,11 @@ body {
     width: 250px;
     border: 5px;
     border-radius: 50px;
-    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+    box-shadow: 4px 4px 20px rgb(0, 0, 0);
 }
 
 .info {
-    background: rgb(239, 232, 232);
+    /* background: rgba(239, 232, 232, 0.297); */
     padding: 5px;
     margin: auto;
 }
@@ -45,7 +47,7 @@ body {
     /* width: 650px; */
 }
 footer {
-    background: rgb(98, 2, 40);
+    background: rgba(107, 94, 99, 0.504);
     border: 5px solid;
     border-color: rgb(239, 232, 232);
     border-radius: 25px;
@@ -70,5 +72,10 @@ footer {
 }
 .fio{
     margin-left: 15px;
+}
+
+.about{
+    background: rgba(238, 224, 210, 0.658);
+    font-size: larger;
 }
 
