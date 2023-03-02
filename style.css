@@ -1,7 +1,7 @@
 
 table {
     box-shadow: 6px 6px 25px;
-    border: 5px outset;
+    border: none;
     border-radius: 55px;
     padding: 20px;
     margin: 16px;
@@ -48,7 +48,7 @@ body {
 }
 footer {
     background: rgba(107, 94, 99, 0.504);
-    border: 5px solid;
+    border: none;
     border-color: rgb(239, 232, 232);
     border-radius: 25px;
     box-shadow: 4px 4px 21px;
