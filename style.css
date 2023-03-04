@@ -126,7 +126,7 @@ h5, ol, h3, h4{
     height: 100vh;
     margin-left: 0px;
     /* opacity: .3; */
-    /* object-fit: cover; */
+    object-fit: cover;
     bottom: 0;
     top: 0;
     left: 0;
